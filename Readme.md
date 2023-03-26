@@ -40,7 +40,7 @@
 - Intital step is to Clone the Repo and install dependencies
 
 ```
-
+git clone https://github.com/Kush134/Medichain
 ```
 
 ```
